@@ -1,11 +1,3 @@
-/*
- * @Author: your name
- * @Date: 2021-04-29 19:39:16
- * @LastEditTime: 2021-04-29 19:39:33
- * @LastEditors: your name
- * @Description: In User Settings Edit
- * @FilePath: \big screen\src\shared\create-echarts-options.ts
- */
 import {baseEchartOptions} from './base-echart-options';
 import {px} from './px';
 

@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2021-04-29 22:15:47
- * @LastEditTime: 2021-04-29 22:16:00
+ * @LastEditTime: 2021-04-30 10:40:49
  * @LastEditors: your name
  * @Description: In User Settings Edit
  * @FilePath: \big screen\src\components\chart-10.tsx
